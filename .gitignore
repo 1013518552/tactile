@@ -1,0 +1,21 @@
+# 运行产物
+data/
+out/
+*.log
+port.txt
+plugin-loaded.txt
+
+# 本机配置（含数据目录、档位、规则，别人不该继承你的）
+tactile.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
