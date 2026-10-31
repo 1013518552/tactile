@@ -140,7 +140,7 @@
 
 **[口播]**
 
-> 代码在 GitHub，MIT 协议，**[仓库地址]**。
+> 代码在 GitHub，MIT 协议，**[github.com/1013518552/tactile](https://github.com/1013518552/tactile)**。
 >
 > Python 写的，除了托盘图标，**全是标准库**。想改、想砍、想只留档 1，都随便。
 >
